@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
     marginTop: 10,
     padding: 10,
     borderRadius: 3,
-    onPress: 'red',
+    onPress: 'red', 
     
 
   },
@@ -86,7 +86,6 @@ const styles = StyleSheet.create({
     paddingLeft: 10,
     paddingRight: 10,
     fontSize: 18,
-    fontWeight: 'bold',
   },
   carButton:{
     backgroundColor:"#5EF554",
